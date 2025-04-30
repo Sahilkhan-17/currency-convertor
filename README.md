@@ -105,6 +105,7 @@ This app uses free currency exchange rates from [ExchangeAPI](https://github.com
     // ... more currencies
   }
 }
+```
 
 ## Dependencies
 
